@@ -1,0 +1,10 @@
+C:\Users\volks\source\repos\StickmanRunner\bin\Debug\StickmanRunner.exe.config
+C:\Users\volks\source\repos\StickmanRunner\bin\Debug\StickmanRunner.exe
+C:\Users\volks\source\repos\StickmanRunner\bin\Debug\StickmanRunner.pdb
+C:\Users\volks\source\repos\StickmanRunner\obj\Debug\StickmanRunner.csprojAssemblyReference.cache
+C:\Users\volks\source\repos\StickmanRunner\obj\Debug\StickmanRunner.Form1.resources
+C:\Users\volks\source\repos\StickmanRunner\obj\Debug\StickmanRunner.Properties.Resources.resources
+C:\Users\volks\source\repos\StickmanRunner\obj\Debug\StickmanRunner.csproj.GenerateResource.cache
+C:\Users\volks\source\repos\StickmanRunner\obj\Debug\StickmanRunner.csproj.CoreCompileInputs.cache
+C:\Users\volks\source\repos\StickmanRunner\obj\Debug\StickmanRunner.exe
+C:\Users\volks\source\repos\StickmanRunner\obj\Debug\StickmanRunner.pdb
